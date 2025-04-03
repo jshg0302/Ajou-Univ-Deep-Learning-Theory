@@ -1,1 +1,11 @@
-# Ajou-Univ-Deep-Learning-Theory
+# 아주대학교 미래모빌리티공학과 딥러닝이론 수업 실습자료
+
+## cnn.pptx
+- cnn의 대한 기본적인 설명
+- cnn1.ipynb의 설명
+
+## cnn1.ipynb
+- ppt 설명대로 같이 코드를 보면서 익히는 과정을 위한 코드
+
+## cnn2.ipynb
+- 주어진 조건에 따라 CNN 코드의 빈칸을 채워보는 실습
